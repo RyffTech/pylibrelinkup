@@ -39,7 +39,7 @@ HEADERS: dict[str, str] = {
     "connection": "Keep-Alive",
     "content-type": "application/json",
     "product": "llu.android",
-    "version": "4.12.0",
+    "version": "4.16.0",
 }
 
 
